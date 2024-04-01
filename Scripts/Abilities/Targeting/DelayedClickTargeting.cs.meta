@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7ce11af3af537a64e91983f496be3633
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cursorTexture: {fileID: 2800000, guid: a88530dc1ae5dc44fbf1df0543e99ebf, type: 3}
+  - actionButton: {fileID: 9162259699764975586, guid: ce2e877a34632ab4d8274e77e8ca5d85,
+      type: 3}
+  - cancelButton: {fileID: -601762182954058218, guid: ce2e877a34632ab4d8274e77e8ca5d85,
+      type: 3}
+  - targetingPrefab: {fileID: 5682143998109065554, guid: eb8b63e74b3a7db4c9fba9acb7cec983,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
